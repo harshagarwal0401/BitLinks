@@ -10,9 +10,9 @@ export default function Home() {
             The Ultimate URL shortner
           </p>
           <p className="px-36 text-center">
-            This is the most straightforward URL shortner."Welcome to our URL Shortener! Simplify long links into concise,
-            shareable URLs in just seconds. It's fast, user-friendly, and designed to make your online sharing effortless.
-            Try it out and experience the ease!
+          This is the most straightforward URL shortener.&quot;Welcome to our URL Shortener! Simplify long links into concise,
+  shareable URLs in just seconds. It&apos;s fast, user-friendly, and designed to make your online sharing effortless.
+  Try it out and experience the ease!
             </p>
             <div className ='flex gap-3 justify-center'>
            <Link href="/shorten"><button className= 'bg-purple-500 rounded-lg shadow-lg p-3  py-1 font-bold text-white'>Try now</button></Link>
